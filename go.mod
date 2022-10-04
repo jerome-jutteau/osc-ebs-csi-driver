@@ -36,12 +36,12 @@ replace (
 
 require (
 	github.com/aws/aws-sdk-go v1.44.4
-	github.com/container-storage-interface/spec v1.5.0
+	github.com/container-storage-interface/spec v1.6.0
 	github.com/golang/mock v1.6.0
-	github.com/kubernetes-csi/csi-test/v4 v4.3.0
+	github.com/kubernetes-csi/csi-test/v4 v4.4.0
 	github.com/kubernetes-csi/external-snapshotter/client/v4 v4.2.0
 	github.com/onsi/ginkgo v1.16.5
-	github.com/onsi/gomega v1.18.1
+	github.com/onsi/gomega v1.19.0
 	github.com/outscale/osc-sdk-go/v2 v2.9.0
 	golang.org/x/sys v0.0.0-20220318055525-2edf467146b5
 	google.golang.org/grpc v1.47.0
